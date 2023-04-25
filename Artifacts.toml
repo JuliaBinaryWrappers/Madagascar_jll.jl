@@ -1,0 +1,18 @@
+[[Madagascar]]
+arch = "i686"
+git-tree-sha1 = "ee70ad7a5c55b486364275e8d770e06f0e803b08"
+libc = "glibc"
+os = "linux"
+
+    [[Madagascar.download]]
+    sha256 = "ed1db8f6a94fc95e75079ccaa7a1eaf956770f244f57e2b49c3b4da301bcd183"
+    url = "https://github.com/JuliaBinaryWrappers/Madagascar_jll.jl/releases/download/Madagascar-v1.0.0+0/Madagascar.v1.0.0.i686-linux-gnu.tar.gz"
+[[Madagascar]]
+arch = "x86_64"
+git-tree-sha1 = "79346e90703c09bf4c2305c9cf89459f72ee0238"
+libc = "glibc"
+os = "linux"
+
+    [[Madagascar.download]]
+    sha256 = "cdf7386e712ba623c250c797e009777a971a9ae679bec62f02b0e911ea0a5b4c"
+    url = "https://github.com/JuliaBinaryWrappers/Madagascar_jll.jl/releases/download/Madagascar-v1.0.0+0/Madagascar.v1.0.0.x86_64-linux-gnu.tar.gz"
